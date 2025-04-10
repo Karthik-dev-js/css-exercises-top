@@ -1,18 +1,18 @@
-.gp1 {
-  background-color: #ff000080;
+.odd {
+  background-color: rgb(255, 114, 118);
   font-family: Verdana, "DejaVu Sans", sans-serif;
 }
-#tag1 {
-  color: #0000ff;
+
+#two {
+  color: #0827f5;
   font-size: 36px;
 }
 
-.size1 {
+.font {
   font-size: 24px;
 }
 
-#tag2 {
-  background-color: #00ff0080;
-  font-size: 24px;
+#four {
+  background-color: hsl(120, 100%, 75%);
   font-weight: bold;
 }
